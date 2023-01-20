@@ -1,3 +1,3 @@
-# Site de Aymane
+# Aymane's Website
 
-:globe_with_meridians: Lien : https://0xAymane.github.io
+:globe_with_meridians: Link: https://0xAymane.github.io
